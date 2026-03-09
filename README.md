@@ -21,17 +21,15 @@ This project allows users to manage bank accounts and perform transactions.
 
 ## Project Structure
 
-## Project Structure
-
 Bank-Account-Management
-│
-├── main.cpp          # Main program with menu and program flow
-├── account.cpp       # Handles account creation and account management
-├── transaction.cpp   # Handles deposit, withdraw, and transaction 
-├── report.cpp        # Generates reports 
-├── customers.txt     # Stores customer account information
-├── transactions.txt  # Stores all transaction records
-└── README.md         # Project documentation
+
+main.cpp          # Main program with menu and program flow
+account.cpp       # Handles account creation and account management
+transaction.cpp   # Handles deposit, withdraw, and transaction 
+report.cpp        # Generates reports 
+customers.txt     # Stores customer account information
+transactions.txt  # Stores all transaction records
+README.md         # Project documentation
 
 ## How to Run
 
